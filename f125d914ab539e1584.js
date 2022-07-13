@@ -1,4 +1,4 @@
-const elem = require('./elements').elements;
+const elem = require('./elements').f125d914ab539e1584;
 
 class f125d914ab539e1584 {
 
